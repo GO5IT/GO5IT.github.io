@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: http://example.com/download.zip
+  site.github.repository_name: https://go5it.github.io/
